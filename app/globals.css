@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+  background: #141b20;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background:
+    radial-gradient(circle at top left, rgba(100, 110, 134, 0.22), transparent 34rem),
+    radial-gradient(circle at 85% 18%, rgba(167, 121, 101, 0.12), transparent 28rem),
+    linear-gradient(180deg, #141b20 0%, #182126 48%, #141b20 100%);
+  color: #dde1dc;
+}
+
+a,
+button {
+  outline-offset: 4px;
+}
+
+::selection {
+  background: #8798aa;
+  color: #141b20;
+}
+
+.section-shell {
+  @apply mx-auto w-full max-w-7xl px-5 sm:px-8 lg:px-10;
+}
+
+.surface {
+  border: 1px solid rgba(221, 225, 220, 0.12);
+  background: rgba(34, 43, 49, 0.82);
+  box-shadow: 0 20px 70px rgba(0, 0, 0, 0.32);
+  backdrop-filter: blur(16px);
+}
+
+.badge {
+  @apply inline-flex items-center rounded-full border border-borderSubtle bg-background/35 px-3 py-1 text-xs font-medium text-textMain;
+}
+
+.reveal {
+  animation: reveal 0.7s ease both;
+}
+
+@keyframes reveal {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

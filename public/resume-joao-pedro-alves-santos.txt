@@ -1,0 +1,45 @@
+João Pedro Alves Santos
+Belo Horizonte, MG, Brasil
+Email: system.joaopedro@gmail.com
+LinkedIn: linkedin.com/in/joao-pedro-alves-santos
+GitHub: github.com/PedroDevTec
+
+Headline
+Software Developer | .NET | Node.js | AWS | Microsoft 365 | Software Architecture | Game Development
+
+Resumo
+Desenvolvedor de software com mais de 3 anos de experiência construindo e evoluindo aplicações web, plataformas internas, ambientes em cloud e integrações corporativas. Atuação principal com .NET, Node.js, bancos relacionais, AWS e Microsoft 365. Também desenvolve projetos técnicos de game development com Roblox e Unity como laboratório para gameplay systems, persistência de dados, progressão, UI e experiências interativas.
+
+Experiência
+Abrasel
+Programador de Sistemas de Informação / Líder Técnico
+Abril de 2022 - Presente
+- Desenvolvimento e manutenção do Estúdio Abrasel, plataforma web interna.
+- Backend e web development com C#, ASP.NET, Razor, Node.js, Express, PostgreSQL, MySQL e SQL Server.
+- Cloud infrastructure com AWS EC2, S3, Lambda e RDS.
+- Integrações com Microsoft 365, Microsoft Graph, Power Automate e Microsoft Lists.
+- Documentação técnica, planejamento de arquitetura, apoio a decisões técnicas, deploy e evolução de sistemas.
+
+Santana Rastreamento
+Monitor
+Novembro de 2017 - Dezembro de 2021
+- Monitoramento de sistema de rastreamento veicular.
+- Suporte a usuários e acompanhamento operacional de sistemas.
+
+ASPROM
+Assistente Administrativo
+Novembro de 2012 - Janeiro de 2015
+- Rotinas administrativas, organização de documentos e suporte interno.
+
+Formação
+Pós-graduação em Arquitetura de Software - Anhanguera Educacional - Concluída em janeiro de 2024
+Graduação em Análise e Desenvolvimento de Sistemas - Anhanguera Educacional - Concluída em 2021
+
+Competências
+Backend: C#, .NET, ASP.NET, Node.js, Express, TypeScript
+Frontend: Razor, React, Next.js, HTML, CSS
+Bancos de dados: PostgreSQL, MySQL, SQL Server, Prisma
+Cloud e DevOps: AWS EC2, AWS S3, AWS Lambda, AWS RDS, Docker, GitHub Actions
+Microsoft 365: Azure AD, Microsoft Graph, Microsoft Lists, Power Automate, Teams integrations
+Game Development: Roblox Studio, Lua, Rojo, Unity, C#, Game Design, Gameplay Systems, Data Persistence
+Arquitetura e Produto: Software Architecture, Documentação Técnica, System Design, Automação de Processos, Product Thinking, Metodologias Ágeis
