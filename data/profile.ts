@@ -7,11 +7,11 @@ export const profile = {
   github: "github.com/PedroDevTec",
   githubUrl: "https://github.com/PedroDevTec",
   headline:
-    "Software Developer | .NET | Node.js | AWS | Microsoft 365 | Software Architecture | Game Development",
+    "Desenvolvedor de Software | Jogos, IA e Backend | C# e TypeScript",
   intro:
-    "Eu construo software corporativo, integrações em cloud, fluxos de automação e experiências interativas que conectam tecnologia, produto e necessidades reais de negócio.",
+    "Desenvolvo sistemas para experiências interativas: do backend à interface, com IA aplicada à criação de personagens no Guardian of Bravantus e protótipos de gameplay em Roblox e Unity.",
   about:
-    "Sou desenvolvedor de software com mais de 3 anos de experiência construindo e evoluindo aplicações web, plataformas internas, ambientes em cloud e integrações corporativas. Trabalho principalmente com .NET, Node.js, bancos relacionais, AWS e Microsoft 365. Também exploro desenvolvimento de jogos com Roblox e Unity como laboratório técnico para sistemas de gameplay, persistência de dados, progressão, UI e experiências interativas.",
+    "Sou desenvolvedor de software com experiência profissional desde 2022 e pós-graduação em Arquitetura de Software. Na Abrasel, trabalho com aplicações web, integrações, bancos de dados e cloud. Nos projetos autorais, conecto essa base ao desenvolvimento de jogos: criação de personagens e IA no Guardian of Bravantus, além de estudos de gameplay, progressão e persistência em Roblox e Unity. Busco contribuir com equipes de jogos em programação, serviços backend e ferramentas com IA, trazendo experiência com evolução e sustentação de produtos.",
 };
 
 export const experiences = [

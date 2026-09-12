@@ -3,8 +3,8 @@ import { ArrowDown, Download, Github, Linkedin, Mail } from "lucide-react";
 import { profile } from "@/data/profile";
 
 const actions = [
-  { label: "Ver projetos", href: "#projects", icon: ArrowDown, primary: true },
-  { label: "Baixar currículo", href: "/resume-joao-pedro-alves-santos.txt", icon: Download, download: true },
+  { label: "Ver jogos e IA", href: "#projects", icon: ArrowDown, primary: true },
+  { label: "Baixar currículo — jogos e IA", href: "/resume-joao-pedro-alves-santos.txt", icon: Download, download: true },
   { label: "LinkedIn", href: profile.linkedInUrl, icon: Linkedin },
   { label: "GitHub", href: profile.githubUrl, icon: Github },
   { label: "Contato", href: `mailto:${profile.email}`, icon: Mail },
@@ -14,7 +14,7 @@ const photoBadges = [
   { label: ".NET", className: "left-1 top-8 sm:-left-8 sm:top-10" },
   { label: "Node.js", className: "right-2 top-5 sm:-right-7 sm:top-12" },
   { label: "AWS", className: "left-3 bottom-20 sm:-left-7 sm:bottom-24" },
-  { label: "Microsoft 365", className: "right-0 bottom-24 sm:-right-10 sm:bottom-28" },
+  { label: "IA aplicada", className: "right-0 bottom-24 sm:-right-10 sm:bottom-28" },
   { label: "Roblox", className: "left-8 bottom-6 sm:left-12 sm:-bottom-3" },
   { label: "Unity", className: "right-8 bottom-5 sm:right-12 sm:-bottom-4" },
 ];
