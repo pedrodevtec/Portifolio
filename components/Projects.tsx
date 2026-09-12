@@ -2,7 +2,7 @@ import { projectGroupLabels, projects, type ProjectGroup } from "@/data/projects
 import { ProjectCard } from "./ProjectCard";
 import { SectionTitle } from "./SectionTitle";
 
-const groupOrder: ProjectGroup[] = ["professional", "technical", "gameLab"];
+const groupOrder: ProjectGroup[] = ["gameLab", "technical", "professional"];
 
 export function Projects() {
   return (
@@ -10,8 +10,8 @@ export function Projects() {
       <div className="section-shell">
         <SectionTitle
           eyebrow="Projetos"
-          title="Uma jornada entre sistemas corporativos, arquitetura, automação e laboratórios interativos."
-          description="Esta seleção organiza os projetos por contexto profissional: primeiro plataformas e integrações corporativas, depois estudos técnicos em GitHub e, por fim, laboratórios de jogos usados para aprofundar sistemas interativos."
+          title="Jogos, IA e a engenharia por trás da experiência."
+          description="Conheça o Guardian of Bravantus, os protótipos de gameplay e os projetos de backend. Cada caso apresenta meu papel, as tecnologias utilizadas e o estágio do trabalho."
         />
 
         <p className="mb-10 max-w-3xl rounded-md border border-borderSubtle bg-surface/45 px-4 py-3 text-sm leading-6 text-textMuted">

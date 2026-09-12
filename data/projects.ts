@@ -38,13 +38,33 @@ export const projectGroupLabels: Record<ProjectGroup, { title: string; descripti
       "Repositórios selecionados que mostram estudos de backend, APIs, arquitetura, organização de código e sistemas com regras de domínio.",
   },
   gameLab: {
-    title: "Laboratório de jogos e experiências interativas",
+    title: "Jogos e IA aplicada",
     description:
-      "Projetos usados como laboratório técnico para estudar sistemas interativos, lógica de gameplay, persistência, UI, arquitetura modular e experiência do usuário.",
+      "Projeto autoral de RPG com IA e protótipos para explorar gameplay, progressão, persistência e interfaces. Os estágios de cada projeto estão indicados abaixo.",
   },
 };
 
 export const projects: Project[] = [
+  {
+    slug: "guardian-of-bravantus",
+    group: "gameLab",
+    title: "Guardian of Bravantus — RPG com IA aplicada",
+    category: "RPG / IA aplicada / Full-stack",
+    status: "MVP em evolução / Playtest",
+    shortDescription: "Plataforma web autoral de RPG com criação assistida de personagens, retratos e cartas. Integra narrativa, interface e serviços de IA em uma jornada para participantes e administração do playtest.",
+    context: "Projeto autoral que conecta um universo de RPG a uma plataforma digital para criar e apresentar personagens. O foco desta entrega é a experiência web de preparação para o playtest.",
+    problem: "Transformar a criação de personagens em uma jornada acessível, mantendo consistência dos dados e controle sobre o uso de IA.",
+    solution: "Fluxo por etapas com rascunhos, sugestões de IA por campo, geração de retratos e cartas, perfil do personagem e recursos administrativos. A IA apoia a criação com limites de uso e acompanhamento de custos.",
+    role: "Desenvolvimento full-stack, modelagem de personagens, integração de IA e evolução da experiência de criação e do painel administrativo.",
+    impact: "Reúne narrativa, autenticação, persistência e geração de conteúdo em um produto autoral demonstrável. A evolução do MVP é orientada pelo feedback do playtest.",
+    technologies: ["TypeScript", "Node.js", "Next.js", "React", "Prisma", "IA generativa"],
+    highlights: ["Criação de personagens com sugestões de IA", "Retratos, cartas e perfil compartilhável", "Rascunhos e jornada de criação por etapas", "Limites de geração e acompanhamento de custos de IA"],
+    image: "",
+    imageAlt: "Guardian of Bravantus — plataforma de RPG",
+    caseStudyUrl: "/projetos/guardian-of-bravantus",
+    githubUrl: "https://github.com/pedrodevtec/Gob-Backend",
+    externalUrl: "https://gob.bardosamigos.com.br",
+  },
   {
     slug: "estudio-abrasel",
     group: "professional",

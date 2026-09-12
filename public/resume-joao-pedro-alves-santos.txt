@@ -5,10 +5,34 @@ LinkedIn: linkedin.com/in/joao-pedro-alves-santos
 GitHub: github.com/PedroDevTec
 
 Headline
-Software Developer | .NET | Node.js | AWS | Microsoft 365 | Software Architecture | Game Development
+Desenvolvedor de Software | Jogos, IA e Backend | C# e TypeScript
 
 Resumo
-Desenvolvedor de software com mais de 3 anos de experiência construindo e evoluindo aplicações web, plataformas internas, ambientes em cloud e integrações corporativas. Atuação principal com .NET, Node.js, bancos relacionais, AWS e Microsoft 365. Também desenvolve projetos técnicos de game development com Roblox e Unity como laboratório para gameplay systems, persistência de dados, progressão, UI e experiências interativas.
+Desenvolvedor de software com experiência profissional desde 2022 e pós-graduação em Arquitetura de Software. Atuação com C#, TypeScript, Node.js, aplicações web e cloud. Desenvolve o Guardian of Bravantus, plataforma autoral de RPG com IA aplicada à criação de personagens, e protótipos de gameplay em Roblox e Unity. Interesse em contribuir com programação de sistemas de jogos, backend e ferramentas com IA.
+
+Projetos de jogos e IA
+Guardian of Bravantus — MVP em evolução / Playtest
+https://gob.bardosamigos.com.br
+Código: https://github.com/pedrodevtec/Gob-Backend
+Frontend: https://github.com/pedrodevtec/GOB-Frontend
+- Desenvolvimento full-stack de plataforma web autoral de RPG.
+- Jornada de criação de personagens com rascunhos e sugestões assistidas por IA.
+- Geração de retratos e cartas, perfil compartilhável e recursos administrativos.
+- Limites de geração e acompanhamento de custos de IA.
+- Tecnologias: TypeScript, Node.js, Next.js, React e Prisma.
+
+Protótipo Roblox — Em desenvolvimento
+- Estudos de gameplay com coleta, progressão, combate, pets e upgrades.
+- Luau, Roblox Studio, Rojo e persistência com DataStore.
+
+Protótipo Unity — Estudo técnico
+- Aplicação de C# a componentes de gameplay, estados, vida, dano e UI.
+- Organização modular e componentes reutilizáveis.
+
+APIRPG — Repositório técnico
+https://github.com/pedrodevtec/APIRPG
+- API em C# para modelagem de entidades e regras de domínio de RPG.
+
 
 Experiência
 Abrasel

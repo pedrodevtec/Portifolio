@@ -8,9 +8,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "João Pedro Alves Santos | Software Developer",
+  title: "João Pedro Alves Santos | Jogos, IA e Backend",
   description:
-    "Portfólio profissional de João Pedro Alves Santos, desenvolvedor de software com foco em backend, arquitetura, cloud, automação, Microsoft 365 e game development.",
+    "Portfólio de João Pedro Alves Santos: Guardian of Bravantus, IA aplicada, protótipos em Roblox e Unity, backend em C# e TypeScript e arquitetura de software.",
 };
 
 export default function RootLayout({

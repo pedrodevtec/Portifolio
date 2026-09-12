@@ -3,9 +3,9 @@ import { profile } from "@/data/profile";
 import { SectionTitle } from "./SectionTitle";
 
 const pillars = [
-  { title: "Engenharia corporativa", text: "Aplicações web, plataformas internas, integrações e sustentação técnica.", icon: Code2 },
-  { title: "Cloud e automação", text: "AWS, Microsoft 365, workflows e soluções para reduzir esforço operacional.", icon: Network },
-  { title: "Laboratório interativo", text: "Roblox e Unity aplicados ao estudo de gameplay, UI, persistência e arquitetura.", icon: Cpu },
+  { title: "Backend e arquitetura", text: "Aplicações web, plataformas internas, integrações e sustentação técnica.", icon: Code2 },
+  { title: "IA aplicada a produto", text: "Criação assistida de personagens, sugestões de conteúdo e geração de imagens no Bravantus.", icon: Network },
+  { title: "Sistemas de jogos", text: "Roblox e Unity aplicados ao estudo de gameplay, UI, persistência e arquitetura.", icon: Cpu },
 ];
 
 export function About() {
